@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SKY LIBRARY</string>
+    <string name="judul_buku" />
+    <string name="judulbuku">Judul Buku</string>
+    <string name="detailbuku">Detail</string>
+    <string name="detail">Detail</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="register">Sign Up</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="login">login</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_about_nurul">AboutNurul</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="leno">
+        <a href="https://www.instagram.com/leno_cahya">Contact me</a>
+    </string>
+    <string name="nurul">
+        <a href="https://www.instagram.com/rulnurul">Contact me</a>
+    </string>
+    <string name="nauval">
+        <a href="https://www.instagram.com/primadya021">Contact me</a>
+    </string>
+    <string name="dinita">
+        <a href="https://www.instagram.com/dinita.ks">Contact me</a>
+    </string>
+    <string name="enter_nim">NIM</string>
+    <string name="enter_jurusan">Jurusan/Program Studi</string>
+    <string name="enter_semester">Semester</string>
+</resources>

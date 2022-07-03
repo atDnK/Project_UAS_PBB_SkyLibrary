@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "731214291282",
+    "project_id": "sky-library-f1288",
+    "storage_bucket": "sky-library-f1288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731214291282:android:286b38cecb64fd6694da8b",
+        "android_client_info": {
+          "package_name": "com.udinus.uas_13037_13038_13048_13065"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731214291282-9eamm2jdm20lmnagkqdona94dv70b86g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udinus.uas_13037_13038_13048_13065",
+            "certificate_hash": "34a36dc46c80600674fec03dfda154135d872f03"
+          }
+        },
+        {
+          "client_id": "731214291282-ssvu9jr86276jipg1cvvtqrpaliqc2fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLZz4fEMLCfSp8CuyiRhG0gssklJsU2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731214291282-ssvu9jr86276jipg1cvvtqrpaliqc2fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/drawable-v24/btn_blue.xml" value="0.240625" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/drawable-v24/btn_blue2.xml" value="0.240625" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/drawable-v24/button_white.xml" value="0.240625" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/drawable-v24/kotak_atas.xml" value="0.240625" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_about_dinita.xml" value="0.33" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_about_leno.xml" value="0.18" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_about_nauval.xml" value="0.22447916666666667" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_about_nurul.xml" value="0.2" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_about_us.xml" value="0.22447916666666667" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_detail_buku.xml" value="0.25" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_explore_library.xml" value="0.1" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_list_book.xml" value="0.1" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_literasi.xml" value="0.1" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_main.xml" value="0.21965579710144928" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_maps.xml" value="0.11144883485309018" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_menu.xml" value="0.12" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_pinjam.xml" value="0.22" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_succes.xml" value="0.15" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_succes_reset_password.xml" value="0.13179347826086957" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/activity_welcome_back.xml" value="0.25" />
+        <entry key="..\:/PPB/UAS_13037_13038_13048_13065/app/src/main/res/layout/recycleview_listbook.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
